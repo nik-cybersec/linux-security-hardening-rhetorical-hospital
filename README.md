@@ -15,8 +15,7 @@ To apply foundational cybersecurity principles on a Linux machine to reduce risk
 - UFW (firewall)
 - Terminal commands (adduser, nano, etc.)
 
-## Upcoming:
-- Password policy enforcement
-- File permission controls
-- Logging failed login attempts
-
+## Completed Tasks:
+- ✅ Password policy enforcement
+- ✅ File permission controls
+- ✅ Logging failed login attempts
