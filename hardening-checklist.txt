@@ -1,0 +1,5 @@
+Created a non-root user for daily operations to avoid executing sensitive tasks as root.
+Enabled UFW firewall to block unnecessary traffic and secure open ports.
+Disabled guest login to avoid unauthorized access to system.
+Enforced strong password complexity using PAM to reduce the risk of weak credentials.
+Verified that /etc/shadow file has proper permissions (640) and is owned by root:shadow, ensuring only privileged access to password hashes.
